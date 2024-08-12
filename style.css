@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#bg-img{
+    background-image: url('media/bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.nav-link{
+    color: white !important;
+    
+}
+.navbar-brand{
+    color: white !important;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar-brand span{
+    color:black;
+    
+}
+section{
+    padding: 50px 0px;
+}
+h4,h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.lmk-card {
+    text-align: center !important;
+    background-color: #e5e2e2;
+    border-radius: 7px;
+    padding: 20px;
+}
+
+.lmk-card img {
+   max-width: 200px;
+    
+}
+
+.lmk-price {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.lmk-card2{
+    text-align: center !important;
+    background-color: #e5e2e2;
+    border-radius: 7px;
+    
+    
+}
+.lmk-card2 img{
+    max-width: 200px;
+}
